@@ -1,0 +1,16 @@
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\day6_Farm0.exe
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\day6_Farm0.deps.json
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\day6_Farm0.runtimeconfig.json
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\day6_Farm0.runtimeconfig.dev.json
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\day6_Farm0.dll
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\ref\day6_Farm0.dll
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\bin\Debug\net5.0\day6_Farm0.pdb
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.csproj.AssemblyReference.cache
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.AssemblyInfoInputs.cache
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.AssemblyInfo.cs
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.csproj.CoreCompileInputs.cache
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.dll
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\ref\day6_Farm0.dll
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.pdb
+C:\Users\amfib\source\repos\day6_Farm0\day6_Farm0\obj\Debug\net5.0\day6_Farm0.genruntimeconfig.cache
